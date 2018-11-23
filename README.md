@@ -6,7 +6,13 @@ An online version of this workshop is available at [Frontend Masters](https://fr
 
 ## Image Resources
 
-### CodePen Resources
+## CodePen Resources
+
+- CSS Grid, [example 1](https://codepen.io/sdras/pen/54dcd199a9f3dbf851b9a8f9c706b8f7)
+- CSS Grid, [example 2](https://codepen.io/sdras/pen/927251d94ada804fea3af69537dbe212)
+- CSS Grid, [example 3](https://codepen.io/sdras/pen/f79830e540a17a3690ab9a9e103b5256)
+- CSS Grid, [example 4](https://codepen.io/sdras/pen/74d210572cdd934e60982fa742243ebd)
+- CSS Grid, [example 5, minmax](https://codepen.io/sdras/pen/2c40c78b80eda0f03010a6182376f29e)
 
 ## License
 
