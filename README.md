@@ -6,6 +6,19 @@ An online version of this workshop is available at [Frontend Masters](https://fr
 
 ## Image Resources
 
+### SVG
+
+- Noun Project, Menu
+- Noun Project, Square Arrow Up
+
+### PNG
+
+- Block of Text
+
+### Templates
+
+First, second, and third stages.
+
 ## CodePen Resources
 
 - CSS Grid, [example 1](https://codepen.io/sdras/pen/54dcd199a9f3dbf851b9a8f9c706b8f7)
