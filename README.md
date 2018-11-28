@@ -13,7 +13,7 @@ An online version of this workshop is available at [Frontend Masters](https://fr
 
 ### PNG
 
-- Block of Text
+- Block of Text for easy grid templating
 
 ### Templates
 
@@ -30,10 +30,6 @@ First, second, and third stages.
 ## Slide Decks
 
 All slide decks are in the `slides-pdf` folder in pdf form ordered by number.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Twitter Contact Info
 
