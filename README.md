@@ -27,6 +27,10 @@ First, second, and third stages.
 - CSS Grid, [example 4](https://codepen.io/sdras/pen/74d210572cdd934e60982fa742243ebd)
 - CSS Grid, [example 5, minmax](https://codepen.io/sdras/pen/2c40c78b80eda0f03010a6182376f29e)
 
+## Slide Decks
+
+All slide decks are in the `slides-pdf` folder in pdf form ordered by number.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
